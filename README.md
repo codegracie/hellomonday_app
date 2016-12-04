@@ -1,24 +1,14 @@
-# README
+# ABOUT
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Howdy! 
 
-Things you may want to cover:
+Hello Monday App is a sample application for the San Carlos Rails. 
+This application is in development mode. 
 
-* Ruby version
+Amazing Team
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. Anthonette Cantara 
+2. 
+3. 
+4. 
+5. 
