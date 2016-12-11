@@ -8,6 +8,9 @@ default: &default
   adapter: sqlite3
   pool: 5
   timeout: 5000
+  host: localhost
+  username: root
+  password: fromasia
 
 development:
   <<: *default
